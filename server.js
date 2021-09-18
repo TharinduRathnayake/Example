@@ -124,10 +124,19 @@ app.use(postRoutes);
 
 //......................Test 01.........................................................
 
+
+//.......maniya.....
+
 //test000222
 
+<<<<<<< HEAD
 //..........................................uma test.............
 //test02222222222222222222222222
+=======
+
+//...............................Maniya test run............
+
+>>>>>>> 62e0c054770e06817190af93611f9c285e95df4b
 
 const PORT = 8000;
 const DB_URL = 'mongodb+srv://itp123:itp123@visioncargo.p4cvw.mongodb.net/VisionCargo?retryWrites=true&w=majority'
